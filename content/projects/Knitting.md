@@ -5,3 +5,4 @@ author: "Joce"
 hidemeta: true
 ShowBreadCrumbs: false
 ---
+Here are the various Knitting Projects I'm doing.
