@@ -67,6 +67,8 @@ params:
               url: posts
             - name: Tags
               url: tags
+            - name: Projects
+              url: projectsmp.md
 
     # home-info mode
     homeInfoParams:
