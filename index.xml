@@ -6,7 +6,7 @@
     <description>Recent content on Joce Rose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Nov 2021 14:28:16 -0600</lastBuildDate><atom:link href="https://jocelynrw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 14:29:29 -0600</lastBuildDate><atom:link href="https://jocelynrw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://jocelynrw.github.io/about/</link>
@@ -17,20 +17,20 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://jocelynrw.github.io/projects/knitting/</link>
+      <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
+      
+      <guid>https://jocelynrw.github.io/projects/knitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://jocelynrw.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 27 Nov 2021 14:28:16 -0600</pubDate>
       
       <guid>https://jocelynrw.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jocelynrw.github.io/projects/knitting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jocelynrw.github.io/projects/knitting/</guid>
       <description></description>
     </item>
     
