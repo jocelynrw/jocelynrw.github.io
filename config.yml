@@ -64,7 +64,7 @@ params:
         # imageTitle: my image
         buttons:
             - name: Posts
-              url: posts
+              url: my-first-post.md
             - name: Tags
               url: tags
             - name: Projects
