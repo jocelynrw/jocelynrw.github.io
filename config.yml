@@ -64,11 +64,11 @@ params:
         # imageTitle: my image
         buttons:
             - name: Posts
-              url: my-first-post.md
+              url: "my-first-post.md"
             - name: Tags
               url: tags
             - name: Projects
-              url: projectsmp.md
+              url: "projectsmp.md"
 
     # home-info mode
     homeInfoParams:
