@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jocelynrw.github.io/sitemap.xml

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joce Rose</title>
+    <link>https://jocelynrw.github.io/</link>
+    <description>Recent content on Joce Rose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Nov 2021 14:28:16 -0600</lastBuildDate><atom:link href="https://jocelynrw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jocelynrw.github.io/about/</link>
+      <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
+      
+      <guid>https://jocelynrw.github.io/about/</guid>
+      <description>My name is Jocelyn. I am a teacher, a maker, and a work in progress. I seek a transformed future.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://jocelynrw.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Nov 2021 14:28:16 -0600</pubDate>
+      
+      <guid>https://jocelynrw.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
