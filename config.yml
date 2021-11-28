@@ -57,7 +57,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Joce Rose
-        subtitle: "This is subtitle"
+        subtitle: "this is everything"
         # imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -65,10 +65,16 @@ params:
         buttons:
             - name: Posts
               url: posts
-            - name: Tags
-              url: tags
             - name: Projects
               url: projects
+            - name: Tags
+              url: tags
+            - recipes: Recipes
+              url: recipes
+            - airports: Airport Reviews
+              url: airports
+
+
 
     # home-info mode
     homeInfoParams:
