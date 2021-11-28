@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 14:29:29 -0600</lastBuildDate><atom:link href="https://jocelynrw.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Knitting</title>
       <link>https://jocelynrw.github.io/projects/knitting/</link>
       <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
       
@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://jocelynrw.github.io/projects/projectsmp/</link>
+      <title>Sewing</title>
+      <link>https://jocelynrw.github.io/projects/sewing/</link>
       <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
       
-      <guid>https://jocelynrw.github.io/projects/projectsmp/</guid>
-      <description>Here are all my projects.</description>
+      <guid>https://jocelynrw.github.io/projects/sewing/</guid>
+      <description>Here are all my sewing projects.</description>
     </item>
     
   </channel>
