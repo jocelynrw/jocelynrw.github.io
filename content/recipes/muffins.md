@@ -5,5 +5,4 @@ author: "Joce"
 hidemeta: true
 ShowBreadCrumbs: false
 ---
-image: 
-    - bread.jpg
+image: /bread.jpg
