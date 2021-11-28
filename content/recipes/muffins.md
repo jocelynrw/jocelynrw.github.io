@@ -5,4 +5,5 @@ author: "Joce"
 hidemeta: true
 ShowBreadCrumbs: false
 ---
-image:"<bread path/bread.jpg>"
+image: 
+    - bread.jpg
