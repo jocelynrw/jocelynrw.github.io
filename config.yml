@@ -71,6 +71,8 @@ params:
               url: recipes
             - name: Airport Reviews
               url: airports
+            - name: Gifts/Donations
+              url: Things to get me
             - name: Tags
               url: tags
 
