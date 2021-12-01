@@ -89,6 +89,8 @@ params:
         #   url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/jocelynrw"
+        - name: goodreads
+          url: "https://www.goodreads.com/user/show/48723784-jocelyn"
 
     # analytics:
     #     google:
