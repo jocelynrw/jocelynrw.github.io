@@ -5,4 +5,4 @@ author: "Joce"
 hidemeta: true
 ShowBreadCrumbs: false
 ---
-[Visit this site.] (https://www.thingstogetme.com/256572aa14dd)
+[Visit this site.](https://www.thingstogetme.com/256572aa14dd)
