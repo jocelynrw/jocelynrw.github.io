@@ -73,8 +73,7 @@ params:
               url: airports
             - name: Gifts/Donations
               url: thingstogetme
-            - name: Tags
-              url: tags
+          
 
 
 
