@@ -6,3 +6,5 @@ hidemeta: true
 ShowBreadCrumbs: false
 ---
 Here are various sewing projects I've completed in the past.
+
+{{< figure src="Koala.jpg" >}}
