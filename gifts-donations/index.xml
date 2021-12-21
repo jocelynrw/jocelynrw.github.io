@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gifts &amp; Donations on Joce Rose</title>
+    <link>https://jocelynrw.github.io/gifts-donations/</link>
+    <description>Recent content in Gifts &amp; Donations on Joce Rose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Nov 2021 14:29:29 -0600</lastBuildDate><atom:link href="https://jocelynrw.github.io/gifts-donations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things to get me</title>
+      <link>https://jocelynrw.github.io/gifts-donations/thingstogetme/</link>
+      <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
+      
+      <guid>https://jocelynrw.github.io/gifts-donations/thingstogetme/</guid>
+      <description>Visit this site.</description>
+    </item>
+    
+    <item>
+      <title>Things to get River Room</title>
+      <link>https://jocelynrw.github.io/gifts-donations/thingstogethpsm/</link>
+      <pubDate>Sat, 27 Nov 2021 14:29:29 -0600</pubDate>
+      
+      <guid>https://jocelynrw.github.io/gifts-donations/thingstogethpsm/</guid>
+      <description>Visit this site.</description>
+    </item>
+    
+  </channel>
+</rss>
