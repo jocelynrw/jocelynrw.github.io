@@ -5,4 +5,4 @@ author: "Joce"
 hidemeta: true
 ShowBreadCrumbs: false
 ---
-Here are the various sewing projects I've completed in the past.
+Here are various sewing projects I've completed in the past.
