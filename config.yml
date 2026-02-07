@@ -83,8 +83,8 @@ params:
         Content: Welcome to my website
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/ChiTeenMont"
+        # - name: twitter
+        # url: "https://twitter.com/ChiTeenMont"
         # - name: stackoverflow
         #   url: "https://stackoverflow.com"
         - name: github
